@@ -3,6 +3,12 @@
 HybridTales Plugin for ChatGPT
 # built from [FastAPI] ChatGPT plugins quickstart
 
+I have moved this project over to 
+[https://github.com/cybershrapnel/HybridTales
+](https://github.com/cybershrapnel/HybridTales)
+and I will be leaving this repo up as is as an educational repo for people to get started with plugins.
+Head on over to the new repo for the cool stuff. I didn't want to complicate this simple demo.
+
 How to install the plugin on OpenAI ChatGPT
 ![image info](https://steemitimages.com/p/C3TZR1g81UNaPs7vzNXHueW5ZM76DSHWEY7onmfLxcK2iNuUcdr1dVtynRCFB2KSzbefvezcfrSCrWFWnt5grMqDkHvN2TYc2Dz1ZN255PxgAPnCgM6CiSr)
 
